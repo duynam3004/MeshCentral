@@ -1,8 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/Ylianst/MeshCentral/master/schemas/config.schema.json",
   "settings": {
-    "cert": "meshcentral-production-5705.up.railway.app",
+    "cert": "YOUR-RAILWAY-DOMAIN-HERE.up.railway.app",
     "port": 443,
+    "TlsOffload": true,
     "allowLogin": true,
     "allowNewAccounts": true
   },
