@@ -1,11 +1,7 @@
 {
-  "$schema": "https://raw.githubusercontent.com/Ylianst/MeshCentral/master/schemas/config.schema.json",
   "settings": {
     "cert": "YOUR-RAILWAY-DOMAIN-HERE.up.railway.app",
-    "port": 443,
-    "TlsOffload": true,
-    "allowLogin": true,
-    "allowNewAccounts": true
+    "TlsOffload": true
   },
   "domains": {
     "": {
