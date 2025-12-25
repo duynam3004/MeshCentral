@@ -1,12 +1,13 @@
 {
   "settings": {
-    "cert": "YOUR-RAILWAY-DOMAIN-HERE.up.railway.app",
-    "TlsOffload": true
+    "TlsOffload": true,
+    "AllowNewAccounts": true
   },
   "domains": {
     "": {
       "title": "My Control Server",
-      "newAccounts": true
+      "newAccounts": true,
+      "certUrl": "https://YOUR-RAILWAY-DOMAIN-HERE.up.railway.app"
     }
   }
 }
