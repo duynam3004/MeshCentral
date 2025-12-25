@@ -1,0 +1,7 @@
+{
+    "domains": {
+        "": {
+            "certUrl": "https://YOUR-RAILWAY-DOMAIN-HERE.up.railway.app"
+        }
+    }
+}
