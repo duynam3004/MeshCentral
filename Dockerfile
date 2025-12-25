@@ -8,4 +8,4 @@ RUN npm install --omit=dev
 COPY . .
 
 EXPOSE 8080
-CMD ["node", "meshcentral.js", "--port", "8080", "--no-tls"]
+CMD ["node", "meshcentral.js", "--port", "8080", "--notls"]
