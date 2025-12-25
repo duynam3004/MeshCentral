@@ -1,7 +1,7 @@
 {
     "domains": {
         "": {
-            "certUrl": "https://YOUR-RAILWAY-DOMAIN-HERE.up.railway.app"
+            "certUrl": "https://meshcentral-production-5705.up.railway.app"
         }
     }
 }
