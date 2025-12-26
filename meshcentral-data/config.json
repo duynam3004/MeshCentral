@@ -1,4 +1,7 @@
 {
+    "settings": {
+        "TlsOffload": true
+    },
     "domains": {
         "": {
             "certUrl": "https://meshcentral-production-5705.up.railway.app"
